@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Medepia MDG-MM Utilities Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+     <CMPNAME>GET_APP_CONTEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get application context</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+     <CMPNAME>GET_CREQUEST_FROM_MATNR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Change Request ID from Matnr</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+     <CMPNAME>GET_WERKS_FROM_CR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Tax Numbers</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+     <CMPNAME>READ_MATNR_FROM_CREQUEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Material Number from Change Request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+     <CMPNAME>READ_MTART</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read the material type from the CR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_MD_MDGMM_UTILITIES</CLSNAME>
+     <CMPNAME>READ_WERKS_FROM_CREQ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>WERKS from Change Request</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
